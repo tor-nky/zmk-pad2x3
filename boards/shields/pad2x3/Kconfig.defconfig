@@ -1,0 +1,9 @@
+# Copyright (c) 2024 Satoru NAKAYA
+# SPDX-License-Identifier: MIT
+
+if SHIELD_TEST
+
+config ZMK_KEYBOARD_NAME
+    default "pad2x3"
+
+endif

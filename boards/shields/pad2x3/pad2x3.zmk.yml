@@ -1,0 +1,8 @@
+file_format: "1"
+id: pad2x3
+name: pad2x3
+type: shield
+url: https://github.com/tor-nky/pad2x3
+requires: [seeed_xiao]
+features:
+  - keys
