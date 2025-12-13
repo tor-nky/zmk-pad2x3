@@ -3,6 +3,6 @@ id: pad2x3
 name: pad2x3
 type: shield
 url: https://github.com/tor-nky/pad2x3
-requires: [seeed_xiao]
+requires: [xiao_ble]
 features:
   - keys
